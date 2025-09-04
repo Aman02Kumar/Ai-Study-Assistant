@@ -132,16 +132,3 @@ Response:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-## 🙏 Acknowledgments
-
-- Built with React and TailwindCSS
-- Powered by Google's Gemini AI
-- Icons by Lucide
-
-## 📞 Contact
-Project Link: [https://github.com/yourusername/ai-education-tool](https://github.com/ayushpratapsingh1/AI-Study-App)
